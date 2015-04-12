@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words
+
+The upstream remote is the remote repo upon which a project is running from. It's the main one, the daddy. A group of devs will be working on one project, working on their own work, pushing and pulling to their own forks... but the Main Daddy - the upstream Daddy - you would submit pull requests to for integration by the owner of the main, proper, daddy.
