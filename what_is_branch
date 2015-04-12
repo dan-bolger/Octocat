@@ -1,1 +1,17 @@
 Explain what a branch is, in your own words
+
+A branch is a figurative branch of the main repo. You can make changes away from the initial branch (always the Master branch). You can switch back to the master branch when you need to, keeping the branch you created as a sort of side project.
+
+-in use:
+
+git branch newbranchname
+
+- then switch to it using:
+
+git checkout newbranchname
+
+- alternatively:
+
+git checkout -b newbranch
+
+- this does both at once
