@@ -1,1 +1,7 @@
-Explain what git clone does, in your own words
+Explain what git clone does, in your own words:
+
+clone fetches (or 'clones') a repository from somewhere else, ie a remote server like github. Like this:
+
+git clone <url>
+
+*NB it clones a repo by creating a dir in that name in the current working dir
